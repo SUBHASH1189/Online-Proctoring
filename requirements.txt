@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+jinja2
+opencv-python
+dlib
+imutils
+numpy
+pydantic
+python-multipart
+speechrecognition
+pyaudio
+# For audio transcription (if used)
+
+# For object detection (if using YOLO or similar, add the relevant package)
+# torch
+# torchvision
